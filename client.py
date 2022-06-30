@@ -57,7 +57,9 @@ def pingpong(client):
             print("Connection Interrupted")
             break
         if msg == "Ping" and ping_response:
+            print("Sending pong...")
             send_msg(client, "Pong")
+
         elif msg == "closed":
             print("[Connection Closed]")
             client.close()
