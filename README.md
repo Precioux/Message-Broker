@@ -7,5 +7,5 @@ protocol of the sender to the formal messaging protocol (TCP)
 of the receiver.
 
 - Computer Networks Course Final Project 
-- AmirKabir University Of Technology
+- Amirkabir University Of Technology
 - Spring 2022
